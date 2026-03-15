@@ -1,7 +1,7 @@
 AUTHOR = 'LauriK'
 SITENAME = 'Kanervoita'
 SITESUBTITLE = "A personal blog."
-SITEURL = ""
+SITEURL = "https://Callun4.github.io/site"
 THEME = "/home/lauri/projects/latensivu/themes/pelican-chameleon"
 BS3_URL = 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css'
 BS3_JS  = 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js'
@@ -9,7 +9,7 @@ CATEGORY_URL = "{slug}.html"
 CATEGORY_SAVE_AS = "{slug}.html"
 
 TAG_URL = "tag/{slug}.html"
-TAG_SAVE_AS = "tag/{slug}.html"
+TAG_SAVE_AS = "tag/{slug}.html" 
 # Change THIS theme
 BS3_THEME = 'https://cdn.jsdelivr.net/npm/bootswatch@3.4.1/brite/bootstrap.min.css'
 BS3_THEME_NAME = 'Brite'
@@ -29,15 +29,15 @@ DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = [
     ('Koti', 'index.html'),
     ('Juttuja', [
-        ('Ruoka & juoma', '/ruoka-juoma.html'),
-        ('Tietotekniikka', '/tietotekniikka.html'),
-        ('Kasvit', '/kasvit.html'),
-        ('Muut projektit', '/muut-projektit.html'),
+        ('Ruoka & juoma', 'ruoka-juoma.html'),
+        ('Tietotekniikka', 'tietotekniikka.html'),
+        ('Kasvit', 'kasvit.html'),
+        ('Muut projektit', 'muut-projektit.html'),
         ]),
     ('Arkisto', [
         ('Tagit', 'tags.html'),
-        ('Categories', '/categories.html'),
-        ('Chronological', '/archives.html'),
+        ('Categories', 'categories.html'),
+        ('Chronological', 'archives.html'),
         ]),       
     ('Linkit', [
         ('Email', 'mailto: lautakane@gmail.com'),
