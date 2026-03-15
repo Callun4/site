@@ -1,0 +1,143 @@
+Title: My super title
+Date: 2010-12-03 10:20
+Modified: 2010-12-05 19:30
+Category: Kasvit
+Tags: Pollia-condensta, test123
+Image: images/apina.jpg
+Slug: Article2
+Summary: This is epic
+
+<ul class="nav nav-tabs">
+  <li class="nav-item">
+    <a class="nav-link active" data-toggle="tab" href="#Faktoja">Faktoja</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" data-toggle="tab" href="#Kasvatus">Kasvatus</a>
+  </li>
+</ul>
+<div class="tab-content">
+  <div class="tab-pane fade show active" id="Faktoja">
+    <div class="card border-primary mb-3" style="max-width: 20rem;">
+      <div class="card-header">Faktoja</div>
+      <div class="card-body">
+        <h4 class="card-title">Pollia condensata</h4>
+        <p class="card-text">Testiä...</p>
+      </div>
+    </div>
+  </div>  <!-- ← Tämä puuttui! -->
+  <div class="tab-pane fade" id="Kasvatus">
+    Kasvatus-teksti
+  </div>
+</div>
+
+
+
+The first order of business was to find an air tank. I found an 80 gallon Ingersoll Rand air compressor that was manufactured in 1952. I removed the air pump and electric motor. The original air pump was replaced with a new Speedaire unit that is rated for 115 psi and normally requires a ½hp motor to run it. The pump is mounted onto the top of the air tank with a steel plate that bolts on to the original motor plate.
+
+In the location of the electric motor, I installed a solid steel shaft on self centering pillow block bearings. This shaft holds three 20kg compressor pulleys used as flywheels to smooth out the operation. These pulleys have a 1 ⅜” bore and are 16” in diameter. A single 4L series v-belt connects the flywheel shaft to the air pump.
+
+Next on the agenda was finding a human power source to spin the flywheels. I found a 1970’s Schwinn exercise bike that was very well constructed from almost all steel components. I stripped it down to the bare essentials, and installed a Sturmey Archer eight speed internally geared bicycle hub in place of the original spoked wheel. This hub has a ratio range from 1:1 to 3.25:1, and the gear changes are done using a selector switch on the handlebars.
+
+To handle the force of hard pedaling, the crank assembly was replaced with tubular Cr-Mo alloy crank arms, sealed bearings, and platform pedals from a BMX racing bicycle. The handlebars and stem were replaced with Cr-Mo components to minimize flex during hard use, and the highest strength 1/8” bicycle chains are used for reliability.
+
+At this point the bicycle and air tank were aligned to one another, and mounted on 6”x6” treated wood frames in the correct position. The bicycle output sprocket is connected by another chain to a similar sprocket on the end of the flywheel shaft, and the drive system is now complete.
+Image: A 1970’s Schwinn exercise bike. The crank assembly was replaced with tubular Cr-Mo alloy crank arms, sealed bearings, and platform pedals from a BMX racing bicycle. Photo by Andy Lagzdins.
+Image: A 1970’s Schwinn exercise bike. The crank assembly was replaced with tubular Cr-Mo alloy crank arms, sealed bearings, and platform pedals from a BMX racing bicycle. Photo by Andy Lagzdins.
+Image: Sturmey Archer eight speed internally geared bicycle hub. Photo by Andy Lagzdins.
+Image: Sturmey Archer eight speed internally geared bicycle hub. Photo by Andy Lagzdins.
+
+To manage the air flow, I incorporated a two stage system. A 10 gallon tank and the 80 gallon tank are valved separately so I can fill each one independently, both together, or transfer air from one tank to the other. Gauges on each tank used to monitor pressures. When the large tank is initially filled, I take it up to 50 psi by feeding it directly from the air pump. At that point, I start filling the small tank by itself up to 100 psi and then dumping it into the large tank.
+Eight speed transmission
+
+The eight speed transmission helps considerably during the filling process. When the tank pressure is low, the bicycle can be pedaled in the higher gears. When the pressure gets in the 70-100 psi range the lower gears are used to overcome the resistance of the air pump.
+
+The process of filling the empty tanks to 100 psi takes 5-10 pedaling sessions per day for roughly a week. When I am busy at the shop, getting on the bike for a little while is actually a nice way to clear my head and in cold weather it warms me up and gets my blood flowing. I can put the bike in low gear and pedal while using my phone or listening to music.
+
+Having to pedal to create the compressed air really makes me concentrate on not wasting air when using tools. It is also crucial to make sure there are no leaks by sealing all the fittings properly.
+Image: Compressed air power tools. Image by Andy Lagzdins.
+Image: Compressed air power tools. Image by Andy Lagzdins.
+
+The parts of this machine that are most susceptible to wear are the air pump seals, the drive belt and chains, the sprockets, and the single rubber hose. I keep spares of these items on hand to ensure trouble free operation for years to come. Any maintenance or repair work can be accomplished with basic hand tools, and all the parts are serviceable and rebuildable.
+
+An additional benefit of using compressed air for energy is the low cost of air tools. The current trend is pushing toward more battery powered equipment, so people are selling off their “outdated” pneumatic tools. There are many used air compressors for sale that have faulty motors or pumps, and are therefore quite inexpensive. There is a good supply of used stationary bicycles; most likely due to people buying them with the intention of starting a workout schedule but not following through with the plans. The next modification will be to add another 80 gallon tank to increase the storage capacity.
+
+To sum it up, the bicycle powered air compressor’s main benefits are: no external power is needed, it can be operated in remote areas at any time, it is constructed of mostly recycled components that are easily rebuildable, and it does not cost anything to run. The additional side benefits are numerous, and more and more positive effects are still unfolding as I use this machine. At the core of the results are a healthy body from pedaling and a healthy mind from thinking outside the box.
+Image: Human powered air compressor and energy storage system. Illustration by Andy Lagzdins.
+Image: Human powered air compressor and energy storage system. Illustration by Andy Lagzdins.
+Specifications:
+
+    Main Air Tank: 80 gallon Horizontal, Ingersoll Rand
+    Fill tank: 10 gallon, 125psi, SnapOn
+    Air Pump: Single Stage, 1hp Max, 115psi, Speedaire 40KH94
+    Stationary Bike: Schwinn Exerciser
+    Transmission: 8spd Internal Gear Hub, Sturmey Archer S80 XRK8
+    Flywheels: Cast Iron, 16” diameter, 1 ⅜” bore
+    Bearings: P207 sealed, self centering, solid foot
+    Belt: 4L Series V-belt
+    Chains: 1/2x1/8 KMC Z1EHX Wide
+    Valves: ½” NPT ball valves, brass
+    Air Filter: K&N pod, cloth and steel mesh
+
+Video
+
+See how the pedal powered air compressor works in this video.
+
+    Subscribe to our newsletter.
+    Support Low-tech Magazine via Paypal or Patreon
+    Read Low-tech Magazine offline.
+
+Reactions
+
+To make a comment, please send an e-mail to solar (at) lowtechmagazine (dot) com. Your e-mail address is not used for other purposes, and will be deleted after the comment is published. If you don’t want your real name to be published, sign the e-mail with the name you want to appear.
+2 Reactions
+
+Related Articles
+
+Bike Generators Compressed Air DIY Energy Storage Human Power Industry and Manufacturing Off-the-Grid Browse By Themes ...
+Direct Solar Power: Off-Grid Without Batteries
+
+Using solar panels without backup infrastructure makes renewable energy production much more affordable, efficient and sustainable.
+August 25, 2023
+How to Build a Practical Household Bike Generator
+
+We built a pedal-powered generator and controller, which is practical to use as an energy source and exercise machine in a household – and which you can integrate into a solar PV system. We provide detailed plans to build your own, using basic skills and common hand tools.
+March 6, 2022
+Pedal Powered Farms and Factories: The Forgotten Future of the Stationary Bicycle
+
+The possibilities of pedal power largely exceed the use of the bicycle.
+May 25, 2011
+Test our Bike Generators in Paris, Rotterdam, and Barcelona
+
+Low-tech Magazine built a bicycle generator for an exhibition on energy at the Pavillon d’Arsenal in Paris, now open to the public. Our two other bikes can be seen and experimented with in Rotterdam and Barcelona.
+December 1, 2023
+568.33KB
+↑
+LOW←TECH MAGAZINE
+
+    Server Stats
+
+    Location
+        Barcelona
+    Time
+        15:04 CET
+    Battery status
+        charging
+    Power used
+        1.86W
+    Uptime
+        6 days, 6 hours, 30 minutes
+
+    Forecast
+    today tomorrow day after tomorrow
+    Info
+    About
+    Power
+    Our Team
+    Donate
+    Privacy Policy
+    Contact
+
+    © Kris De Decker
+    solar [at] lowtechmagazine [dot] com
+
+

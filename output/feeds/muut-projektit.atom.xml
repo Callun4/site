@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kanervoita - Muut projektit</title><link href="https://Callun4.github.io/site/" rel="alternate"></link><link href="https://Callun4.github.io/site/feeds/muut-projektit.atom.xml" rel="self"></link><id>https://Callun4.github.io/site/</id><updated>2026-03-11T18:30:00+02:00</updated><subtitle>A personal blog.</subtitle><entry><title>Kasvatusteltta Ikea hyllyyn</title><link href="https://Callun4.github.io/site/Kasvatusteltta.html" rel="alternate"></link><published>2026-03-11T18:30:00+02:00</published><updated>2026-03-11T18:30:00+02:00</updated><author><name>LauriK</name></author><id>tag:callun4.github.io,2026-03-11:/site/Kasvatusteltta.html</id><summary type="html">&lt;p&gt;Halusin kuivalle huoneilmalle herkille kasveille paremman kasvatustilan talveksi. Valmiit kaupalliset tuotteet eivät kuitenkaan mahdu minulla mihinkään, joten päädyin tekemään kasvatusteltan itse.&lt;/p&gt;</summary><content type="html">&lt;div class="card-body text-lext"&gt;
+  &lt;img src="https://Callun4.github.io/site/images/teltta1.jpg" 
+       class="img-fluid"
+       style="max-width: 250px;"
+       alt="Python"&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Huonekasviharrastukseni laajetessa, aloin kantamaan huolta kasvieni kestokyvystä maamme kuivassa ja pimeässä talvi-ilmassa. Osasta kasveistani löytyi netistä hirveän vähän tietoa ja niiden luontainen esiintymisalue oli sademetsää, joten olin hieman huolissani niiden kasvutarpeista. Ryhdyin siis miettimään miten saisin niille paremmat olosuhteet&lt;/p&gt;
+&lt;p&gt;Ratkaisuksi hahmottui jonkinlainen suljettu tila. Aloitin tämän tutustumalla kaupallisiin kasvuteltta valikoimiin, mutta hinnat ja mittasuhteet karsivat ne nopeasti pois. Tyyppillinen teltta oli korkeudeltaan yli 150 cm ja kaikkine tilpehööreineen se olisi tullut hyvin kalliiksi. Päädyin siis tekemään kasvuteltan itse.&lt;/p&gt;
+&lt;p&gt;Teltan suunnittelu alkoi sopivan paikan löytämisestä kämpästäni. Kallax hylly osoittautui täydelliseksi. Hyllynjakajat poistamalla tilaa sai 68x68x38 cm käyttöön, mikä riitti minulle mainiosti. Piirsin kuoresta tarkat piirustukset, joiden avulla laskin tarvittavan kankaan pinta-alan. Halusin saumojen olevan siistejä sekä ulko- että sisäpuolelta, joten jaoin kuoren kahteen osaan, näin sain saumat piilotettua ulkoverhoilun taakse. Oviaukko jäi omaksi erilliseksi palaksi, johon ompelin pyöristyvän vetoketjun.&lt;/p&gt;
+&lt;p&gt;Teltan materiaali oli hyvin heijastavaa mylaria mitä sain &lt;a href="https://pavunvarsi.fi/" class="card-link" target="_blank" rel="noopener"&gt;täältä&lt;/a&gt;. Ulkoverhoilu oli eurokankaasta haettu ulkoilukankaan jämäpala. Ilmanvaihdon saamiseksi leikkasin takaseinään pyöreitä reikiä ja kiinnitin niihin ilmanvaihtoritilät. Koko teltan tukiranka on PVC:tä. Kokoprojektin kruunaava osa oli 15W LED-lista (35 €), jonka kiinnitin roikkumaan tukirangasta. Koko projektin hinnaksi laskin 65 €.&lt;/p&gt;
+&lt;p&gt;Talven jälkeen voin sanoa että teltta toimi hyvin. Kuumana käyvä lamppu kuivatti tilaa päivisin (~40 %), mutta ei sentään huoneilman tasolle. Pimeällä ilmankosteus kohosi n. 60-70 %. Jatkossa on tarkoitus siistiä valon johdotusta ja kehittää jonkinlainen säätömekanismi valon korkeudelle. Jos elektroniikkaa kertyy lisää, tehostettu ilmanvaihto voisi olla seuraava askel.&lt;/p&gt;
+&lt;div style="display: flex; gap: 15px; margin-bottom: 20px; width: 100%;"&gt;
+  &lt;figure style="flex: 1; margin: 0; min-width: 0; max-width: none !important;"&gt;
+    &lt;img src="https://Callun4.github.io/site/images/teltta.jpg"
+         style="width: 100% !important; max-width: none !important; height: 500px; object-fit: cover; border-radius: 6px;"&gt;
+    &lt;figcaption style="font-size: 0.85em; color: #6b3a1f; font-style: italic; text-align: center; margin-top: 5px;"&gt;
+      Kuva valmiin teltan sisuksista, ilman kasvivaloa
+    &lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure style="flex: 1.5; margin: 0; min-width: 0; max-width: none !important;"&gt;
+    &lt;img src="https://Callun4.github.io/site/images/teltta1.jpg"
+         style="width: 100% !important; max-width: none !important; height: 500px; object-fit: cover; border-radius: 6px;"&gt;
+    &lt;figcaption style="font-size: 0.85em; color: #6b3a1f; font-style: italic; text-align: center; margin-top: 5px;"&gt;
+      Suljettu teltta
+    &lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure style="flex: 1; margin: 0; min-width: 0; max-width: none !important;"&gt;
+    &lt;img src="https://Callun4.github.io/site/images/telttakasvu.jpg"
+         style="width: 100% !important; max-width: none !important; height: 500px; object-fit: cover; border-radius: 6px;"&gt;
+    &lt;figcaption style="font-size: 0.85em; color: #6b3a1f; font-style: italic; text-align: center; margin-top: 5px;"&gt;
+      Käytössä oleva teltta
+    &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;</content><category term="Muut projektit"></category><category term="Sormet mullassa"></category><category term="Projekti"></category></entry></feed>
