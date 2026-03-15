@@ -5,8 +5,10 @@ SITEURL = ""
 THEME = "/home/lauri/projects/latensivu/themes/pelican-chameleon"
 BS3_URL = 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css'
 BS3_JS  = 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js'
-CATEGORY_URL = '{slug}.html'
-CATEGORY_SAVE_AS = '{slug}.html'
+CATEGORY_URL = "category/{slug}.html"
+CATEGORY_SAVE_AS = "category/{slug}.html"
+TAG_URL = "tag/{slug}.html"
+TAG_SAVE_AS = "tag/{slug}.html"
 # Change THIS theme
 BS3_THEME = 'https://cdn.jsdelivr.net/npm/bootswatch@3.4.1/brite/bootstrap.min.css'
 BS3_THEME_NAME = 'Brite'
