@@ -1,0 +1,38 @@
+{% set name = [category]|join %}
+{% set link = category.url %}
+{% extends "base.html" %}
+
+{% block content %}
+
+{% if articles %}
+  {% for article in articles %}
+
+<div class="article-preview">
+
+  {% if article.metadata.image %}
+    <div class="preview-image">
+      <img src="{{ SITEURL }}/{{ article.metadata.image }}">
+    </div>
+  {% endif %}
+
+  <div class="preview-text">
+    <h2>
+      <a href="{{ SITEURL }}/{{ article.url }}">
+        {{ article.title }}
+      </a>
+    </h2>
+
+    {% if article.summary %}
+      <p>{{ article.summary }}</p>
+    {% endif %}
+  </div>
+
+</div>
+<hr>
+
+  {% endfor %}
+{% else %}
+  <p>Ei artikkeleita.</p>
+{% endif %}
+
+{% endblock %}

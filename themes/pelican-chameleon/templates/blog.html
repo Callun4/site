@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>Blogi</h1>
+
+{% for article in articles %}
+  <h2><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
+{% endfor %}
+
+{% endblock %}
