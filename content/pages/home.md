@@ -3,7 +3,7 @@ Save_as: index.html
 Template: home
 
 <div class="hero-section">
-  <img src="/images/taustakevat.jpg" class="hero-bg">
+  <img src="{{ SITEURL }}/images/taustakevat.jpg" class="hero-bg">
   <div class="hero-overlay"></div>
   <div class="hero-content">
     <h1 class="hero-title">Kanervoita</h1>
