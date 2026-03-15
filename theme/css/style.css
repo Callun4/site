@@ -1,0 +1,614 @@
+/* koko sivun taustakuva */
+body {
+  background-color: #0a1f0d !important;
+  background-image: 
+    repeating-linear-gradient(
+      45deg,
+      rgba(255,255,255,0.015) 0px,
+      rgba(255,255,255,0.015) 1px,
+      transparent 1px,
+      transparent 10px
+    ),
+    repeating-linear-gradient(
+      -45deg,
+      rgba(255,255,255,0.015) 0px,
+      rgba(255,255,255,0.015) 1px,
+      transparent 1px,
+      transparent 10px
+    );
+}
+/* ===== SITE-HEADER - pyöristetyt alakulmat ===== */
+.site-header {
+  position: relative;
+  overflow: hidden;
+  border-radius: 0 0 30px 30px;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.5);
+  /* Poista blur pois jos haluat - se sumentaa koko kuvan */
+}
+
+.site-header img.logo {
+  width: 100%;
+  display: block;
+  border-radius: 0 0 30px 30px;
+}
+
+/* Tumma gradientti kuvan alaosaan */
+.site-header::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  background: linear-gradient(transparent, rgba(10, 31, 13, 0.6));
+  border-radius: 0 0 30px 30px;
+  pointer-events: none;
+}
+
+/* ===== FOOTER ===== */
+#footer {
+  background: linear-gradient(360deg, #0c2815) !important;
+  margin-top: 40px;
+  border-radius: 10px 10px 0 0;
+}
+
+#footer-text, #footer-text a {
+  color: rgba(255,255,255,0.6) !important;
+}
+
+#footer-text a:hover {
+  color: #1cc88a !important;
+}
+
+/*preview*/
+.article-preview {
+  max-width: 90%;
+  margin: 10px auto;
+  display:flex;
+  /* valkoinen laatikko tekstille */
+  background: #ecd9ba;
+  text-align: left;
+  padding: 20px;
+  border-radius: 12px;
+  color:#2A1503 !important;
+  box-shadow: 0 -3px 0 #a0724a inset !important;
+  font-size: 1.2rem;
+}
+.preview-image img {
+  width: 200px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+/* teksti */
+.preview-text {
+  flex: 1;
+  color: #3d2b1f !important;
+  margin-left: 10px;
+}
+
+.preview-text h2 >a {
+  margin-top: 0;
+  color: #2A1503 !important;
+}
+
+/* myös otsikolle sama tausta (valinnainen) */
+.page-header {
+  background: #ecd9ba !important;
+  padding: 20px;
+  border-radius: 12px;
+  margin: 20px;
+  color: #2A1503 !important;
+  box-shadow: 0 -3px 0 #a0724a inset !important;
+}
+.page-header h1 >a{
+  color: #2A1503;
+  margin-left:10px;
+  position: center;
+    
+}
+
+.site-header::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0.25);
+}
+
+h1, h2, h3 {
+  font-weight: 600;
+  letter-spacing: -0.5px;
+}
+/*ETUSIVU*/
+.home-content {
+  max-width: 100%;
+  margin: 30px auto;
+  min-width: 100%;
+  background:#ecd9ba;
+  padding: 40px;
+  border-radius: 12px;
+  color:black !important;
+  box-shadow: 0 -3px 0 #a0724a inset !important;
+  font-size: 1.1rem;
+}
+/* === HERO == */
+.hero-section {
+  position: relative;
+  width: 100%;
+  height: 600px;
+  border-radius: 15px;
+  overflow: hidden;
+  margin-bottom: 30px;
+}
+
+.hero-bg {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position:center 70%;
+  display: block;
+}
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to bottom,
+    rgba(10, 31, 13, 0.3) 0%,
+    rgba(10, 31, 13, 0.75) 100%
+  );
+}
+.hero-content {
+  position: absolute;
+  bottom: 50px;
+  left: 50px;
+  right: 50px;
+  color: white;
+}
+.hero-title {
+  font-size: 2.8em;
+  font-weight: 700;
+  margin: 0 0 10px 0;
+  text-shadow: 0 2px 10px rgba(0,0,0,0.5);
+  letter-spacing: 1px;
+}
+.hero-subtitle {
+  font-size: 1.1em;
+  opacity: 0.85;
+  margin: 0 0 25px 0;
+  text-shadow: 0 1px 6px rgba(0,0,0,0.5);
+}
+.hero-btn {
+  display: inline-block;
+  background: #1cc88a;
+  color: #0a1f0d !important;
+  padding: 10px 28px;
+  border-radius: 25px;
+  font-weight: 600;
+  text-decoration: none !important;
+  transition: all 0.2s ease;
+  box-shadow: 0 4px 15px rgba(28,200,138,0.3);
+}
+.hero-btn:hover {
+  background: #17a673;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(28,200,138,0.4);
+}
+/*LOPPU*/
+.col-md-8 {
+  min-width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.site-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  color:white;
+}
+.logo img {
+  height: 40px;
+}
+/*==ulkoasua==*/
+/*.container,
+.main-content,
+.content,
+.row {
+  background: rgba(255,255,255,0.96);
+  max-width: 900px;
+  margin: 60px auto;
+  padding: 50px;
+
+  border-radius: 16px;
+
+  box-shadow: 0 20px 60px rgba(0,0,0,0.12);
+} /*
+/*==tiivistelmä nätiks*/
+.post-card {
+  background: #ecd9ba;
+  padding: 25px;
+  margin-bottom: 30px;
+  border-radius: 12px;
+  box-shadow: 0 -3px 0 #a0724a inset !important;
+}
+
+.post-image img {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+.post-card h2 {
+  margin-top: 0;
+}
+
+/*==navbar asetukset==*/
+/* Korjaa Bootstrapin omat muuttujat */
+.navbar {
+  --bs-navbar-color: white !important;
+  --bs-navbar-hover-color: #1cc88a !important;
+  --bs-navbar-active-color: #1cc88a !important;
+  --bs-navbar-brand-color: white !important;
+  --bs-navbar-toggler-border-color: rgba(255,255,255,0.2)!important;
+  --bs-navbar-brand-hover-color: #1cc88a !important;
+}
+.navbar-brand {
+  padding: 0px 0px !important;
+  height: 200%;
+  display: flex !important;
+  align-items: center !important;
+  padding-bottom: 20px !important;
+}
+
+.navbar {
+  background: linear-gradient(360deg, #0c2815) !important;
+  --bs-bg-opacity: 1;
+  background-color: #0c2815 !important;
+  border: none;
+  box-shadow: 0 5px 20px rgba(0,0,0,0.5);
+  padding: 10px 0 !important;
+  min-height: 70px !important;
+  z-index: 2000;
+  color: white;
+
+}
+/* Aktiivinen nav-linkki */
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-item.active > .nav-link,
+.navbar-nav > li.active > a {
+  background-color: #1a3419 !important;
+  color: white !important;
+}
+
+/* Dropdown auki -tila .show) */
+.navbar-nav .nav-item.show > .nav-link,
+.navbar-nav .dropdown.show > .nav-link {
+  background-color: #1a3419 !important;
+  color: white !important;
+}
+
+/* Dropdown-valikko itse */
+.navbar .dropdown-menu {
+  background-color: #0c2815 !important;
+  border: 1px solid #1a3419;
+}
+
+
+.navbar-default .navbar-nav > li > a {
+  color: white !important;
+  position: relative;
+  padding: 20px 25px !important
+}
+
+.navbar-default .navbar-brand {
+  color: white !important;
+  font-size: 1.4em !important;
+  font-weight: 700 !important;
+  letter-spacing: 1px !important;
+  padding: 18px 20px !important;
+  position: relative;
+  transition: color 0.2s ease !important;
+}
+
+.navbar-brand::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 4px;
+  height: 60%;
+  background: #1cc88a;
+  border-radius: 0 3px 3px 0;
+}
+
+.navbar-brand:hover {
+  color: #1cc88a !important;
+}
+
+.navbar .dropdown-item {
+  color: white !important;
+}
+
+.navbar .dropdown-item:hover,
+.navbar .dropdown-item:focus,
+.navbar .dropdown-item.active {
+  background-color: #1a3419 !important;
+  color: #1cc88a !important;
+}
+/*=Hover-animaatio-viiva ilmestyy alle=*/
+.navbar-nav > li > a::after {
+  content: '';
+  position: absolute;
+  bottom: 8px;
+  left: 25px;
+  right: 25px;
+  height: 2px;
+  background: #1cc88a;
+  transform: scaleX(0);
+  transition: transform 0.25s ease;
+  border-radius: 2px;
+}
+
+.navbar-nav > li > a:hover::after,
+.navbar-nav > li.active > a::after {
+  transform: scaleX(1);
+}
+
+.navbar-nav > li > a:hover {
+  color: #1cc88a !important;
+  background: transparent !important;
+}
+/* Bootstrap 4: .open-tila */
+.navbar-nav > .open > a,
+.navbar-nav > .open > a:hover,
+.navbar-nav > .open > a:focus {
+  background-color: #1a3419 !important;
+  color: white !important;
+}
+/* search button navbarissa */
+.navbar-form .form-control {
+  background: rgba(255,255,255,0.08) !important;
+  border: 1px solid rgba(255,255,255,0.15) !important;
+  border-radius: 20px !important;
+  color: white !important;
+  padding: 6px 16px !important;
+  transition: all 0.25s ease;
+  width: 180px;
+}
+
+.navbar-form .form-control:focus {
+  background: rgba(255,255,255,0.15) !important;
+  border-color: #1cc88a !important;
+  box-shadow: 0 0 0 2px rgba(28,200,138,0.2) !important;
+  width: 220px;
+}
+
+.navbar-form .form-control::placeholder {
+  color: rgba(255,255,255,0.4) !important;
+}
+.navbar .btn {
+  border-radius: 20px !important;
+  border-color: rgba(255,255,255,0.2) !important;
+  color: white !important;
+  background: transparent !important;
+  transition: all 0.2s ease;
+}
+.navbar .btn:hover {
+  background: #1cc88a !important;
+  border-color: #1cc88a !important;
+}
+
+.dropdown-menu {
+  border-radius: 8px;
+  border: none;
+  background-color: #1a3419 !important; 
+  border: none; 
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15); 
+  z-index: 2100 !important;
+  position: absolute;
+  overflow: hidden;
+}
+.dropdown-menu > li > a {
+  color: white !important;
+}
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus {
+  background-color: #1a3419 !important;
+  color: white !important;
+}
+
+.site-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+
+/* ===== ARTIKKELISIVUN TEKSTILAATIKKO ===== */
+
+#article_content {
+  background: #ecd9ba !important;
+  padding: 40px !important;
+  border-radius: 12px;
+  margin-top: 30px;
+  box-shadow: 0 -3px 0 #a0724a inset !important;
+  color: black !important;
+  align-items: flex-start;
+  font-size: 1.1rem;
+}
+#article_content  >p{
+  margin-top:10px;
+}
+#article_info >a{
+  background: #ecd9ba !important;
+  color: black;
+  padding:5px !important;
+  box-shadow: 0 -3px 0 #a0724a inset !important;
+  border-radius: 10px !important;
+}
+
+#article_content .card {
+  overflow: hidden;
+}
+
+#article_content .card-body:has(img) {
+  float: left;
+  margin: 0 20px 10px 0;
+  padding: 0 !important;
+  width: auto;
+}
+
+#article_content .card-body:has(img) img {
+  display: block;
+  border-radius: 8px;
+}
+/*kuvateksti*/
+#article_content figure {
+  float: left;
+  margin: 0 20px 20px 0;
+  max-width: 250px;
+}
+#article_content figcaption {
+  font-size: 0.85em;
+  color: #6b3a1f;
+  font-style: italic;
+  text-align: center;
+  margin-top: 5px;
+  padding: 4px;
+  border-top: 1px solid #c9a87c;
+}
+/*Venytä kuvan mukana*/
+#article_content::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+.col-md-8::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+/* Piilota erottajat tyylikkäästi */
+.article-metadata b {
+  color: #c9a87c;
+  font-weight: normal;
+}
+
+/* Perusnappula */
+#article_content .nav-tabs li.nav-item > a {
+  background: #d4b896 !important;
+  color: #3d2b1f !important;
+  border: none !important;
+  border-radius: 8px 8px 0 0 !important;
+  margin-right: 4px;
+  transition: all 0.2s ease;
+}
+
+/* Hover */
+#article_content .nav-tabs li.nav-item > a:hover {
+  background: #c9a87c !important;
+  color: #3d2b1f !important;
+}
+
+/* Aktiivinen */
+#article_content .nav-tabs li.active > a,
+#article_content .nav-tabs li.active > a:hover,
+#article_content .nav-tabs li.active > a:focus {
+  background: #ecd9ba !important;
+  color: #3d2b1f !important;
+  font-weight: bold !important;
+  box-shadow: 0 -3px 0 #a0724a inset !important;
+  border: none !important;
+}
+
+/* Poista Bootstrap 3:n valkoinen taustapalkki */
+#article_content .nav-tabs {
+  border-bottom: 2px solid #c9a87c !important;
+}
+
+.tab-content{
+   color:black;
+   margin-top:5px;
+   padding:5px !important;
+   box-shadow: 0 -3px 0 #a0724a inset !important;
+   border-radius: 10px;
+}
+#article_content .tab-content {
+  position: relative !important;
+  min-height: 50px;
+}
+#article_content .tab-pane {
+  display: none !important;
+}
+
+#article_content .tab-pane.active {
+  display: block !important;
+}
+
+/*paneelit*/
+/* Panel otsikko */
+.panel-primary {
+  border-color: #c9a87c !important;
+  border-radius: 10px !important;
+  overflow: hidden;
+  margin-bottom: 8px !important;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15) !important;
+}
+
+.panel-primary > .panel-heading {
+  background: #d4b896 !important;
+  border-color: #c9a87c !important;
+  color: #3d2b1f !important;
+}
+
+.panel-primary > .panel-heading a {
+  color: #3d2b1f !important;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.panel-primary > .panel-heading a:hover {
+  color: #6b3a1f !important;
+}
+
+/* Badge (artikkelimäärä) */
+.panel-heading .badge {
+  background: #a0724a !important;
+  color: #ecd9ba !important;
+}
+
+/* Lista-itemit */
+.list-group-item {
+  background: #f5ede0 !important;
+  border-color: #e0c9a8 !important;
+  color: #3d2b1f !important;
+  transition: background 0.2s ease;
+}
+
+.list-group-item:hover {
+  background: #ecd9ba !important;
+  color: #3d2b1f !important;
+}
+
+/* Kategorioiden pikavalintapillerit ylhäällä */
+.label-primary {
+  background: #d4b896 !important;
+  color: #3d2b1f !important;
+  border-radius: 8px !important;
+  padding: 4px 10px !important;
+  margin: 2px !important;
+  display: inline-block;
+  font-weight: 500;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  transition: background 0.2s ease;
+}
+
+.label-primary:hover {
+  background: #c9a87c !important;
+  color: #3d2b1f !important;
+  text-decoration: none;
+}
+
