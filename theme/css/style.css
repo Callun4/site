@@ -17,6 +17,13 @@ body {
       transparent 10px
     );
 }
+/*Mobiili*/
+@media (max-width: 768px) {
+  body {
+    font-size: 14px;
+  }
+}
+
 /* ===== SITE-HEADER - pyöristetyt alakulmat ===== */
 .site-header {
   position: relative;
@@ -62,7 +69,7 @@ body {
 
 /*preview*/
 .article-preview {
-  max-width: 90%;
+  max-width: 95%;
   margin: 10px auto;
   display:flex;
   /* valkoinen laatikko tekstille */
