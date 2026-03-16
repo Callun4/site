@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kanervoita - Kasvit</title><link href="https://Callun4.github.io/site/" rel="alternate"></link><link href="https://Callun4.github.io/site/feeds/kasvit.atom.xml" rel="self"></link><id>https://Callun4.github.io/site/</id><updated>2026-03-20T13:05:00+02:00</updated><subtitle>A personal blog.</subtitle><entry><title>Pollia Condensata, "Helmimarja", "Polja"</title><link href="https://Callun4.github.io/site/Pollia.html" rel="alternate"></link><published>2026-03-20T13:05:00+02:00</published><updated>2026-03-20T13:05:00+02:00</updated><author><name>LauriK</name></author><id>tag:callun4.github.io,2026-03-20:/site/Pollia.html</id><summary type="html">&lt;p&gt;Harvinaisempi kasvi Afrikan sademetsistä &lt;p&gt;&lt;small&gt; Kuva: &lt;a href="https://www.inaturalist.org/photos/76527290" class="card-link" target="_blank" rel="noopener"&gt;Bart Wursten&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;</summary><content type="html">&lt;ul class="nav nav-tabs"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kanervoita - Kasvit</title><link href="https://www.kanervoita.com/" rel="alternate"></link><link href="https://www.kanervoita.com/feeds/kasvit.atom.xml" rel="self"></link><id>https://www.kanervoita.com/</id><updated>2026-03-20T13:05:00+02:00</updated><subtitle>A personal blog.</subtitle><entry><title>Pollia Condensata, "Helmimarja", "Polja"</title><link href="https://www.kanervoita.com/Pollia.html" rel="alternate"></link><published>2026-03-20T13:05:00+02:00</published><updated>2026-03-20T13:05:00+02:00</updated><author><name>LauriK</name></author><id>tag:www.kanervoita.com,2026-03-20:/Pollia.html</id><summary type="html">&lt;p&gt;Harvinaisempi kasvi Afrikan sademetsistä &lt;p&gt;&lt;small&gt; Kuva: &lt;a href="https://www.inaturalist.org/photos/76527290" class="card-link" target="_blank" rel="noopener"&gt;Bart Wursten&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;</summary><content type="html">&lt;ul class="nav nav-tabs"&gt;
   &lt;li class="nav-item"&gt;
     &lt;a class="nav-link active" data-toggle="tab" href="#Faktoja"&gt;Kasvista&lt;/a&gt;
   &lt;/li&gt;
@@ -49,14 +49,14 @@
 &lt;p&gt;Yhden vuoden kasvun jälkeen kasvit ovat kasvaneet melkoisesti. Kasvin kestävyys on jopa ylittänyt odotukseni ja olen hieman yllättynyt että se ei ole lajina suositumpi Pääversolla on pituutta korkeimmassa jo ~30 cm ja rönsyjä on tullut kymmeniä. Istutin yhden viikko sitten leveämpään ruukkuu, jotta kasvi pääsisi mukailemaan enemmän luonnollista kasvutapaansa. Täytyy päivittää kuvia kasvukauden lopuksi, jotta näkee kuinka se on kehittynyt. Vuoden kasvatuksessa olen oppinut hyvin tästä lajista ja olenkin kirjannut ylös tietojani kohtiin: Hoito-ohjeet ja Havainnot.&lt;/p&gt;
 &lt;div style="display: flex; gap: 15px; margin-bottom: 20px; width: 100%;"&gt;
   &lt;figure style="flex: 1; margin: 0; min-width: 0; max-width: none !important;"&gt;
-    &lt;img src="https://Callun4.github.io/site/images/pienipolja.jpg"
+    &lt;img src="https://www.kanervoita.com/images/pienipolja.jpg"
          style="width: 100% !important; max-width: none !important; height: 500px; object-fit: cover; border-radius: 6px;"&gt;
     &lt;figcaption style="font-size: 0.85em; color: #6b3a1f; font-style: italic; text-align: center; margin-top: 5px;"&gt;
       Yksi ottamistani pistokkaista. Kuvassa näkyy alhaalla verson tekemä verso, joka putoaa alas ja juurtuu multaan.
     &lt;/figcaption&gt;
   &lt;/figure&gt;
   &lt;figure style="flex: 1.5; margin: 0; min-width: 0; max-width: none !important;"&gt;
-    &lt;img src="https://Callun4.github.io/site/images/isoP1.jpg"
+    &lt;img src="https://www.kanervoita.com/images/isoP1.jpg"
          style="width: 100% !important; max-width: none !important; height: 500px; object-fit: contain; border-radius: 6px;"&gt;
     &lt;figcaption style="font-size: 0.85em; color: #6b3a1f; font-style: italic; text-align: center; margin-top: 5px;"&gt;
       Leveään astiaan istutettu Polja viikko istutuksen jälkeen (10.3). Täytyy kasvukauden lopuksi päivittää nämä kuvat.
@@ -66,20 +66,20 @@
 
 &lt;div style="display: flex; gap: 15px; margin-bottom: 20px; width: 100%;"&gt;
   &lt;figure style="flex: 1; margin: 0; min-width: 0; max-width: none !important;"&gt;
-    &lt;img src="https://Callun4.github.io/site/images/isoP2.jpg"
+    &lt;img src="https://www.kanervoita.com/images/isoP2.jpg"
          style="width: 100% !important; max-width: none !important; height: 500px; object-fit: contain; border-radius: 6px;"&gt;
     &lt;figcaption style="font-size: 0.85em; color: #6b3a1f; font-style: italic; text-align: center; margin-top: 5px;"&gt;
       Leveässä oleva päältä
     &lt;/figcaption&gt;
   &lt;/figure&gt;
   &lt;figure style="flex: 1.5; margin: 0; min-width: 0; max-width: none !important;"&gt;
-    &lt;img src="https://Callun4.github.io/site/images/voivoi.jpg"
+    &lt;img src="https://www.kanervoita.com/images/voivoi.jpg"
          style="width: 100% !important; max-width: none !important; height: 500px; object-fit: contain; border-radius: 6px;"&gt;
     &lt;figcaption style="font-size: 0.85em; color: #6b3a1f; font-style: italic; text-align: center; margin-top: 5px;"&gt;
       Toinen yksilö, talven jälkeen. Pääsi muutaman kerran kuivumaan.
     &lt;/figcaption&gt;
   &lt;/figure&gt;
-&lt;/div&gt;</content><category term="Kasvit"></category><category term="Harvinaiset"></category><category term="Sormet mullassa"></category><category term="Siemenestä"></category><category term="Sademetsä"></category><category term="Kukkivat"></category></entry><entry><title>Carnegiea gigantea, Saguaro, Jättikaktus</title><link href="https://Callun4.github.io/site/Saguaro.html" rel="alternate"></link><published>2026-03-16T17:05:00+02:00</published><updated>2026-03-16T17:05:00+02:00</updated><author><name>LauriK</name></author><id>tag:callun4.github.io,2026-03-16:/site/Saguaro.html</id><summary type="html">&lt;p&gt;Siemenestä kasvatettuja jättikaktuksia ja hitaasti muuten kasvavat &lt;p&gt;&lt;small&gt; Kuva: &lt;a href="https://www.inaturalist.org/photos/263795973" class="card-link" target="_blank" rel="noopener"&gt;Ryan Fernand&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;</summary><content type="html">&lt;ul class="nav nav-tabs"&gt;
+&lt;/div&gt;</content><category term="Kasvit"></category><category term="Harvinaiset"></category><category term="Sormet mullassa"></category><category term="Siemenestä"></category><category term="Sademetsä"></category><category term="Kukkivat"></category></entry><entry><title>Carnegiea gigantea, Saguaro, Jättikaktus</title><link href="https://www.kanervoita.com/Saguaro.html" rel="alternate"></link><published>2026-03-16T17:05:00+02:00</published><updated>2026-03-16T17:05:00+02:00</updated><author><name>LauriK</name></author><id>tag:www.kanervoita.com,2026-03-16:/Saguaro.html</id><summary type="html">&lt;p&gt;Siemenestä kasvatettuja jättikaktuksia ja hitaasti muuten kasvavat &lt;p&gt;&lt;small&gt; Kuva: &lt;a href="https://www.inaturalist.org/photos/263795973" class="card-link" target="_blank" rel="noopener"&gt;Ryan Fernand&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;</summary><content type="html">&lt;ul class="nav nav-tabs"&gt;
   &lt;li class="nav-item"&gt;
     &lt;a class="nav-link active" data-toggle="tab" href="#Faktoja"&gt;Kasvista&lt;/a&gt;
   &lt;/li&gt;
@@ -109,7 +109,7 @@
 
 &lt;div style="display: flex; gap: 15px; margin-bottom: 20px;margin-top:20px; width: 100%;"&gt;
   &lt;figure style="flex: 1; margin: 0; min-width: 0; max-width: none !important;"&gt;
-    &lt;img src="https://Callun4.github.io/site/images/kaktsss.jpg"
+    &lt;img src="https://www.kanervoita.com/images/kaktsss.jpg"
          style="width: 100% !important; max-width: none !important; height: 500px; object-fit: contain; border-radius: 6px;"&gt;
     &lt;figcaption style="font-size: 0.85em; color: #6b3a1f; font-style: italic; text-align: center; margin-top: 5px;"&gt;
       Saguaroni keväällä 2026. Enemmänkin selvisi, mutta nämä ovat ne mitä minulla on hoidossani.
@@ -119,4 +119,4 @@
 
 &lt;p&gt;Jättikaktus eli Saguaro on puun kokoiseksi kasvava kaktuslaji. Siemenet hankin 2024 &lt;a href="https://onszaden.com/carnegiea-gigantea" class="card-link" target="_blank" rel="noopener"&gt;Onszadenilta&lt;/a&gt;. Saavuttuaan siemenet itivät nopeasti muutamassa viikossa. Ensimmäisen vuoden jälkeen kaktuksien koko vaihteli 0,5-1 cm välillä.&lt;/p&gt;
 &lt;p&gt;Tästä lajista löytyy ihan hyvin tietoa ja useampi kaktus-harrastaja onkin kasvattanut niitä. En siis lähtenyt ihan sokeana kasvatukseen niinkuin Poljien kanssa. Kasvatus on ollut mielestäni hyvin yksikertaista ja vaatimatonta. Kaktuksien kanssa mielestäni suurin ongelma on yleensä liika holhoaminen. Tämän kun onnistuu välttämään ja osaa pitää näpit irti kasvista niin suurempia ongelmia ei synny.&lt;/p&gt;
-&lt;p&gt;Kahden vuoden aikana kaktukset eivät ole hirveästi kasvaneet (~6 ja ~4 cm). Verrattuna vapaudessa eläviin kasvu on kuitenkin ollut huimaa, sillä siellä 2-vuotias kaktus voisi olla jopa vain 0,5 cm korkea. Täytyy varmaan tähän postaukseen rakentaa aikajana kasvukuvista, kun nämä tästä vielä kasvavat.&lt;/p&gt;</content><category term="Kasvit"></category><category term="Harvinaiset"></category><category term="Sormet mullassa"></category><category term="Mehikasvit"></category><category term="Siemenestä"></category></entry><entry><title>Kasvinjalostusta</title><link href="https://Callun4.github.io/site/Kasvinjalostusta1.html" rel="alternate"></link><published>2026-03-12T13:05:00+02:00</published><updated>2026-03-12T13:05:00+02:00</updated><author><name>LauriK</name></author><id>tag:callun4.github.io,2026-03-12:/site/Kasvinjalostusta1.html</id><summary type="html">&lt;p&gt;Työn alla, tulossa pian&lt;/p&gt;</summary><content type="html">&lt;p&gt;Kääk! Täällähän ei ole vielä mitään!&lt;/p&gt;</content><category term="Kasvit"></category><category term="Jalostus"></category><category term="Sormet mullassa"></category><category term="Projekti"></category></entry></feed>
+&lt;p&gt;Kahden vuoden aikana kaktukset eivät ole hirveästi kasvaneet (~6 ja ~4 cm). Verrattuna vapaudessa eläviin kasvu on kuitenkin ollut huimaa, sillä siellä 2-vuotias kaktus voisi olla jopa vain 0,5 cm korkea. Täytyy varmaan tähän postaukseen rakentaa aikajana kasvukuvista, kun nämä tästä vielä kasvavat.&lt;/p&gt;</content><category term="Kasvit"></category><category term="Harvinaiset"></category><category term="Sormet mullassa"></category><category term="Mehikasvit"></category><category term="Siemenestä"></category></entry><entry><title>Kasvinjalostusta</title><link href="https://www.kanervoita.com/Kasvinjalostusta1.html" rel="alternate"></link><published>2026-03-12T13:05:00+02:00</published><updated>2026-03-12T13:05:00+02:00</updated><author><name>LauriK</name></author><id>tag:www.kanervoita.com,2026-03-12:/Kasvinjalostusta1.html</id><summary type="html">&lt;p&gt;Työn alla, tulossa pian&lt;/p&gt;</summary><content type="html">&lt;p&gt;Kääk! Täällähän ei ole vielä mitään!&lt;/p&gt;</content><category term="Kasvit"></category><category term="Jalostus"></category><category term="Sormet mullassa"></category><category term="Projekti"></category></entry></feed>

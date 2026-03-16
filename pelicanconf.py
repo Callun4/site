@@ -1,7 +1,7 @@
 AUTHOR = 'LauriK'
 SITENAME = 'Kanervoita'
 SITESUBTITLE = "A personal blog."
-SITEURL = "https://Callun4.github.io/site"
+SITEURL = "https://www.kanervoita.com"
 THEME = "themes/pelican-chameleon"
 BS3_URL = 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css'
 BS3_JS  = 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js'
