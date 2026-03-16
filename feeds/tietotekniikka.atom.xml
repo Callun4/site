@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kanervoita - Tietotekniikka</title><link href="https://Callun4.github.io/site/" rel="alternate"/><link href="https://Callun4.github.io/site/feeds/tietotekniikka.atom.xml" rel="self"/><id>https://Callun4.github.io/site/</id><updated>2026-03-14T18:30:00+02:00</updated><subtitle>A personal blog.</subtitle><entry><title>Python harjoittelua 2, Sanakone</title><link href="https://Callun4.github.io/site/New-word-machine.html" rel="alternate"/><published>2026-03-14T18:30:00+02:00</published><updated>2026-03-14T18:30:00+02:00</updated><author><name>LauriK</name></author><id>tag:callun4.github.io,2026-03-14:/site/New-word-machine.html</id><summary type="html">&lt;p&gt;Pythonin harjoittelua. Kielien harjoittelu ohjelma. Tiedoston luku ja datan haku netistä → haetun datan muokkaus&lt;/p&gt;</summary><content type="html">&lt;div class="card-body text-lext"&gt;
-  &lt;img src="https://Callun4.github.io/site/images/pythonlogo.png" 
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kanervoita - Tietotekniikka</title><link href="https://www.kanervoita.com/" rel="alternate"/><link href="https://www.kanervoita.com/feeds/tietotekniikka.atom.xml" rel="self"/><id>https://www.kanervoita.com/</id><updated>2026-03-14T18:30:00+02:00</updated><subtitle>A personal blog.</subtitle><entry><title>Python harjoittelua 2, Sanakone</title><link href="https://www.kanervoita.com/New-word-machine.html" rel="alternate"/><published>2026-03-14T18:30:00+02:00</published><updated>2026-03-14T18:30:00+02:00</updated><author><name>LauriK</name></author><id>tag:www.kanervoita.com,2026-03-14:/New-word-machine.html</id><summary type="html">&lt;p&gt;Pythonin harjoittelua. Kielien harjoittelu ohjelma. Tiedoston luku ja datan haku netistä → haetun datan muokkaus&lt;/p&gt;</summary><content type="html">&lt;div class="card-body text-lext"&gt;
+  &lt;img src="https://www.kanervoita.com/images/pythonlogo.png" 
        class="img-fluid"
        style="max-width: 250px;"
        alt="Python"&gt;
@@ -17,14 +17,14 @@
 &lt;p&gt;Projektia tehdessä huomasi jo että Python taitoni ovat hieman kehittyneet. Ohjelman kirjoittaminen oli huomattavasti nopeampaa ja komentoketjujen rakenekkin selvisi minulle nopeasti. Koodista sain ainakin tehtyä siistimpää kuin viimeksi, mutta ulkoasussa olisi edelleen paranettavaa.&lt;/p&gt;
 &lt;div style="display: flex; gap: 15px; margin-bottom: 20px; width: 100%;"&gt;
   &lt;figure style="flex: 1; margin: 0; min-width: 0; max-width: none !important;"&gt;
-    &lt;img src="https://Callun4.github.io/site/images/newword.png"
+    &lt;img src="https://www.kanervoita.com/images/newword.png"
          style="width: 100% !important; max-width: none !important; height: 520px; object-fit: contain; border-radius: 6px;"&gt;
     &lt;figcaption style="font-size: 0.85em; color: #6b3a1f; font-style: italic; text-align: center; margin-top: 5px;"&gt;
       Ohjelman ulkoasu
     &lt;/figcaption&gt;
   &lt;/figure&gt;
-&lt;/div&gt;</content><category term="Tietotekniikka"/><category term="Python"/><category term="Ohjelmointi"/></entry><entry><title>Kotipalvelimen käyttöönotto</title><link href="https://Callun4.github.io/site/Serveri1.html" rel="alternate"/><published>2026-03-08T10:20:00+02:00</published><updated>2026-03-08T10:20:00+02:00</updated><author><name>LauriK</name></author><id>tag:callun4.github.io,2026-03-08:/site/Serveri1.html</id><summary type="html">&lt;p&gt;Kotipalvelimen asennus ja käyttö, aloittelijan yritykset.&lt;/p&gt;</summary><content type="html">&lt;div class="card-body text-lext"&gt;
-  &lt;img src="https://Callun4.github.io/site/images/serveri.jpg" 
+&lt;/div&gt;</content><category term="Tietotekniikka"/><category term="Python"/><category term="Ohjelmointi"/></entry><entry><title>Kotipalvelimen käyttöönotto</title><link href="https://www.kanervoita.com/Serveri1.html" rel="alternate"/><published>2026-03-08T10:20:00+02:00</published><updated>2026-03-08T10:20:00+02:00</updated><author><name>LauriK</name></author><id>tag:www.kanervoita.com,2026-03-08:/Serveri1.html</id><summary type="html">&lt;p&gt;Kotipalvelimen asennus ja käyttö, aloittelijan yritykset.&lt;/p&gt;</summary><content type="html">&lt;div class="card-body text-lext"&gt;
+  &lt;img src="https://www.kanervoita.com/images/serveri.jpg" 
        class="img-fluid"
        style="max-width: 250px;"
        alt="Serveri"&gt;
@@ -61,8 +61,8 @@
         &lt;p class="card-text"&gt;•Ubuntu 24.04.4 LTS&lt;/p&gt;
         &lt;p class="card-text"&gt;•Nextcloud&lt;/p&gt;
   &lt;/div&gt;
-&lt;/div&gt;</content><category term="Tietotekniikka"/><category term="Serveri"/><category term="Linux"/><category term="Kotipalvelin"/></entry><entry><title>Python harjoittelua 1, Fluxinator</title><link href="https://Callun4.github.io/site/Fluxinator.html" rel="alternate"/><published>2026-03-07T14:30:00+02:00</published><updated>2026-03-07T14:30:00+02:00</updated><author><name>LauriK</name></author><id>tag:callun4.github.io,2026-03-07:/site/Fluxinator.html</id><summary type="html">&lt;p&gt;Pythonin harjoittelua. CSV-data:n luku → muokkaus → kirjoitus-ohjelman tekeminen.&lt;/p&gt;</summary><content type="html">&lt;div class="card-body text-lext"&gt;
-  &lt;img src="https://Callun4.github.io/site/images/pythonlogo.png" 
+&lt;/div&gt;</content><category term="Tietotekniikka"/><category term="Serveri"/><category term="Linux"/><category term="Kotipalvelin"/></entry><entry><title>Python harjoittelua 1, Fluxinator</title><link href="https://www.kanervoita.com/Fluxinator.html" rel="alternate"/><published>2026-03-07T14:30:00+02:00</published><updated>2026-03-07T14:30:00+02:00</updated><author><name>LauriK</name></author><id>tag:www.kanervoita.com,2026-03-07:/Fluxinator.html</id><summary type="html">&lt;p&gt;Pythonin harjoittelua. CSV-data:n luku → muokkaus → kirjoitus-ohjelman tekeminen.&lt;/p&gt;</summary><content type="html">&lt;div class="card-body text-lext"&gt;
+  &lt;img src="https://www.kanervoita.com/images/pythonlogo.png" 
        class="img-fluid"
        style="max-width: 250px;"
        alt="Python"&gt;
@@ -77,7 +77,7 @@
 &lt;p&gt;Kaasuvuon mittaukset ovat hyvin ollenainen osa biogeokemian tutkimusta. Kaasuvuon mittauksissa mittauskohteita on yleensä lukuisia, joten dataa on paljon. Datan käsittelyä varten on olemassa valmis koodi, jonka avulla saadaan laskettua mittaushetken aikana ollut kaasuvuo yksikössä µmol m⁻² s⁻¹. Kaasuvuota tarkastellaan kuitenkin yleensä jossakin massayksikössä ja pidemmällä ajalla, mikä edellyttää datan muuntamista muotoon: massa (esim. g) m⁻² aika(esim. 1-24h). Tässä kohtaa tekemäni ohjelma astuu kuvaan. &lt;/p&gt;
 &lt;p&gt;Ohjelmani tarkoituksena on lukea useampi mittausdata CSV samanaikaisesti, muuntaa niissä olevan kaasunvuo oikeaan, valittuun massayksikköön ja yhdistää annettujen CSV-tiedostojen data yhteen tiedostoon. Helppokäyttöisyyttä edistääkseni tein ohjelmaa varten oman käyttöliittymän tkinter ja messagebox moduulien avulla. &lt;/p&gt;
 &lt;figure style="float: left; margin: 0 20px 20px 0; max-width: 60%;"&gt;
-  &lt;img src="https://Callun4.github.io/site/images/Fluxi.png" class="img-fluid" alt="Kuva"&gt;
+  &lt;img src="https://www.kanervoita.com/images/Fluxi.png" class="img-fluid" alt="Kuva"&gt;
   &lt;figcaption style="font-size: 0.85em; color: #6b3a1f; font-style: italic; text-align: center; margin-top: 5px;"&gt;
     Ohjelman ulkoasu
   &lt;/figcaption&gt;
