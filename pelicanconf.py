@@ -22,6 +22,7 @@ ARTICLE_PATHS = ["articles"]
 INDEX_SAVE_AS = "index.html"
 EXTRA_PATH_METADATA = {
     "extra/favicon.ico": {"path": "favicon.ico"},
+    "extra/CNAME": {"path": "CNAME"},
 }
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False

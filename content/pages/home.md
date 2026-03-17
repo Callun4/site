@@ -18,5 +18,5 @@ Olen luonnosta ja tekniikasta kiinnostunut pian valmistuva ympäristötieteilij�
 
 Olen myös aktiivinen huonekasvien harrastaja. Harrastus ei ole koskaan rajoittunut mihinkään tiettyyn lajiryhmään eli kaikki kasvit kelpaavat. Kokoelma on kuitenkin hiljalleen ajautunut erikoisempaan suuntaan ja viime aikoina pääteemaksi on muodostunut: "Mitä harvinaisempi, sen parempi." 
 
-Tämä sivu ei ole opas, vaan enemmänkin julkinen muistikirja. Yritän kuitenkin koota kokeilujen ja kasvatusten vaiheet siten että joku muu pystyy ne helposti toistamaan. Kirjoitan ensisijaisesti itselleni, mutta toivon että joku muukin samanlainen kokeilija löytää täältä jotain hyödyllistä . Sivun sisältö kasvaa sitä mukaa kun projektit etenevät. Joissain aihepiireissä seuraan kehitystäni pidemmällä aikavälillä aikajanan avulla.
+Tämä sivu ei ole opas, vaan enemmänkin julkinen muistikirja. Yritän kuitenkin koota kokeilujen ja kasvatusten vaiheet siten että joku muu pystyy ne helposti toistamaan. Kirjoitan ensisijaisesti itselleni, mutta toivon että joku muukin samanlainen kokeilija löytää täältä jotain hyödyllistä. Sivun sisältö kasvaa sitä mukaa kun projektit etenevät. Joissain aihepiireissä seuraan kehitystäni pidemmällä aikavälillä aikajanan avulla.
 

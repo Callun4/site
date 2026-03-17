@@ -46,6 +46,6 @@ Summary: Siemenestä kasvatettuja jättikaktuksia ja hitaasti muuten kasvavat <p
 
 Jättikaktus eli Saguaro on puun kokoiseksi kasvava kaktuslaji. Siemenet hankin 2024 <a href="https://onszaden.com/carnegiea-gigantea" class="card-link" target="_blank" rel="noopener">Onszadenilta</a>. Saavuttuaan siemenet itivät nopeasti muutamassa viikossa. Ensimmäisen vuoden jälkeen kaktuksien koko vaihteli 0,5-1 cm välillä.
 
-Tästä lajista löytyy ihan hyvin tietoa ja useampi kaktus-harrastaja onkin kasvattanut niitä. En siis lähtenyt ihan sokeana kasvatukseen niinkuin Poljien kanssa. Kasvatus on ollut mielestäni hyvin yksikertaista ja vaatimatonta. Kaktuksien kanssa mielestäni suurin ongelma on yleensä liika holhoaminen. Tämän kun onnistuu välttämään ja osaa pitää näpit irti kasvista niin suurempia ongelmia ei synny.
+Tästä lajista löytyy ihan hyvin tietoa ja useampi kaktusharrastaja onkin kasvattanut niitä. En siis lähtenyt ihan sokeana kasvatukseen niin kuin Poljien kanssa. Kasvatus on ollut mielestäni hyvin yksikertaista ja vaatimatonta. Kaktuksien kanssa mielestäni suurin ongelma on yleensä liika holhoaminen. Tämän kun onnistuu välttämään ja osaa pitää näpit irti kasvista niin suurempia ongelmia ei synny.
 
 Kahden vuoden aikana kaktukset eivät ole hirveästi kasvaneet (~6 ja ~4 cm). Verrattuna vapaudessa eläviin kasvu on kuitenkin ollut huimaa, sillä siellä 2-vuotias kaktus voisi olla jopa vain 0,5 cm korkea. Täytyy varmaan tähän postaukseen rakentaa aikajana kasvukuvista, kun nämä tästä vielä kasvavat.
