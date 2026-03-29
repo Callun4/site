@@ -1,5 +1,5 @@
 Title: Mämmiä!
-Date: 2026-03-29 19:20
+Date: 2026-03-29 19:00
 Category: Ruoka & Juoma
 Image: images/mammi2.jpg
 Tags: Kotiruokaa, Viljat 
