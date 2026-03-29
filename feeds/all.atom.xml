@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kanervoita</title><link href="https://www.kanervoita.com/" rel="alternate"/><link href="https://www.kanervoita.com/feeds/all.atom.xml" rel="self"/><id>https://www.kanervoita.com/</id><updated>2026-03-20T13:05:00+02:00</updated><subtitle>A personal blog.</subtitle><entry><title>Pollia Condensata, "Helmimarja", "Polja"</title><link href="https://www.kanervoita.com/Pollia.html" rel="alternate"/><published>2026-03-20T13:05:00+02:00</published><updated>2026-03-20T13:05:00+02:00</updated><author><name>LauriK</name></author><id>tag:www.kanervoita.com,2026-03-20:/Pollia.html</id><summary type="html">&lt;p&gt;Harvinaisempi kasvi Afrikan sademetsistä &lt;p&gt;&lt;small&gt; Kuva: &lt;a href="https://www.inaturalist.org/photos/76527290" class="card-link" target="_blank" rel="noopener"&gt;Bart Wursten&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;</summary><content type="html">&lt;ul class="nav nav-tabs"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kanervoita</title><link href="https://www.kanervoita.com/" rel="alternate"/><link href="https://www.kanervoita.com/feeds/all.atom.xml" rel="self"/><id>https://www.kanervoita.com/</id><updated>2026-03-29T19:20:00+03:00</updated><subtitle>A personal blog.</subtitle><entry><title>Mämmiä!</title><link href="https://www.kanervoita.com/mammia.html" rel="alternate"/><published>2026-03-29T19:20:00+03:00</published><updated>2026-03-29T19:20:00+03:00</updated><author><name>LauriK</name></author><id>tag:www.kanervoita.com,2026-03-29:/mammia.html</id><summary type="html">&lt;p&gt;Mämmiä kotona. Yllättävän helppoa hommaa!&lt;/p&gt;</summary><content type="html">&lt;p&gt;Kuulin että mämmin valmistus on helppoa ja vaivatonta hommaan, joten päätin kokeilla tätä itse. Kaapista löytyikin valmiiksi jo ruisjauhot ja -maltaat. Ohjeena valmistuksessa oli &lt;a href="https://www.myllynparas.fi/reseptit/mammi" class="card-link" target="_blank" rel="noopener"&gt;tämä&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Aloitin valmistuksen illalla sekoittamalla jauhot ja maltaat veden kanssa yhteen. Ohjeesta poiketen sekoitin kaikki kerralla, koska olin ajatellut imeltää mämmin yön aikana uunissa. Valmiin litkun laitoin ajastettuun uuniin odottamaan imeltymistä. Aamulla herätessä mämmi oli imeltynyt ja siirryin seuraavaan vaiheeseen. &lt;/p&gt;
+&lt;div style="display: flex; gap: 15px; margin-bottom: 20px; width: 100%;"&gt;
+  &lt;figure style="flex: 1; margin: 0; min-width: 0; max-width: none !important;"&gt;
+    &lt;img src="https://www.kanervoita.com/images/mammi.jpg"
+         style="width: 100% !important; max-width: none !important; height: 500px; object-fit: cover; border-radius: 6px;"&gt;
+    &lt;figcaption style="font-size: 0.85em; color: #6b3a1f; font-style: italic; text-align: center; margin-top: 5px;"&gt;
+      Mämmi illalla ennen imeltymistä
+    &lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure style="flex: 1.5; margin: 0; min-width: 0; max-width: none !important;"&gt;
+    &lt;img src="https://www.kanervoita.com/images/mammi1.jpg"
+         style="width: 100% !important; max-width: none !important; height: 500px; object-fit: cover; border-radius: 6px;"&gt;
+    &lt;figcaption style="font-size: 0.85em; color: #6b3a1f; font-style: italic; text-align: center; margin-top: 5px;"&gt;
+      Imeltynyt mämmi aamulla
+    &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Seuraavassa vaiheessa mämmiä kiehutettiin kevyesti, runsaasti sekoittaen, 15 minuutin ajan. Samalla sekaan lisättiin hieman suolaa ja siirappia. Kiehautuksen jälkeen mämmin annettiin jäähtyä, minkä jälkeen jaoin sen kahteen astiaan, mitkä laitoin 120 °C uuniin 4 tunnin ajaksi. Lopussa tekemästäni kostuttelusta huolimatta mämmin pinnassa oli kevyt kuori. Tämä ei kuitenkaan haitannut sen syömistä ja voinkin sanoa, että tämä vetää ihan hyvin vertoja kaupan tuotteelle.&lt;/p&gt;
+&lt;div style="display: flex; gap: 15px; margin-bottom: 20px; width: 100%;"&gt;
+  &lt;figure style="flex: 1; margin: 0; min-width: 0; max-width: none !important;"&gt;
+    &lt;img src="https://www.kanervoita.com/images/mammi2.jpg"
+         style="width: 100% !important; max-width: none !important; height: 500px; object-fit: cover; border-radius: 6px;"&gt;
+    &lt;figcaption style="font-size: 0.85em; color: #6b3a1f; font-style: italic; text-align: center; margin-top: 5px;"&gt;
+      Mämmi valmiina
+    &lt;/figcaption&gt;
+  &lt;/figure&gt;</content><category term="Ruoka &amp; Juoma"/><category term="Kotiruokaa"/><category term="Viljat"/></entry><entry><title>Pollia Condensata, "Helmimarja", "Polja"</title><link href="https://www.kanervoita.com/Pollia.html" rel="alternate"/><published>2026-03-20T13:05:00+02:00</published><updated>2026-03-20T13:05:00+02:00</updated><author><name>LauriK</name></author><id>tag:www.kanervoita.com,2026-03-20:/Pollia.html</id><summary type="html">&lt;p&gt;Harvinaisempi kasvi Afrikan sademetsistä &lt;p&gt;&lt;small&gt; Kuva: &lt;a href="https://www.inaturalist.org/photos/76527290" class="card-link" target="_blank" rel="noopener"&gt;Bart Wursten&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;</summary><content type="html">&lt;ul class="nav nav-tabs"&gt;
   &lt;li class="nav-item"&gt;
     &lt;a class="nav-link active" data-toggle="tab" href="#Faktoja"&gt;Kasvista&lt;/a&gt;
   &lt;/li&gt;
@@ -14,9 +41,9 @@
   &lt;div class="tab-pane active" id="Faktoja"&gt;
     &lt;div class="card border-primary mb-3"&gt;
       &lt;div class="card-body"&gt;
-        &lt;p class="card-text"&gt;•Kasvaa Afrikan sademetsäalueilla. Laajalle levinnyt.&lt;/p&gt;
+        &lt;p class="card-text"&gt;•Kasvaa Afrikan sademetsäalueilla, laajalle levinnyt.&lt;/p&gt;
         &lt;p class="card-text"&gt;•Rönsyilevä kasvutapa, kuten mansikalla.&lt;/p&gt;
-        &lt;p class="card-text"&gt;•Tunnettu voimaakkaan sinisistä marjoistaan.&lt;/p&gt;
+        &lt;p class="card-text"&gt;•Tunnettu voimakkaan sinisistä marjoistaan.&lt;/p&gt;
         &lt;p class="card-text"&gt;•Marjoissa ei ole mitään syötävää, kuori on paksu ja voimakkaan sininen.&lt;/p&gt;
         &lt;p class="card-text"&gt;•Linnut koristelevat pesiään marjoilla, mikä edistää kasvin leviämistä.&lt;/p&gt;
         &lt;p class="card-text"&gt;•Kukkii sisällä? Ei ainakaan vielä.&lt;/p&gt;
@@ -29,12 +56,12 @@
         &lt;p class="card-text"&gt;•Ilmava kasvualusta, kasvaa hyvin myös altakastelu ruukussa.&lt;/p&gt;
         &lt;p class="card-text"&gt;•Ei suoraan auringonvaloon, viihtyy hyvin itä ja länsi ikkunoilla.&lt;/p&gt;
         &lt;p class="card-text"&gt;•Matala ja leveä ruukku on paras, tällöin rönsyt saa ohjattua multaan juurtumaan.&lt;/p&gt;
-        &lt;p class="card-text"&gt;•Nuorennetaan latvomalla (HUOM! Olen vasta leikannut yhden latavan, kokeilu vielä kesken).&lt;/p&gt;
+        &lt;p class="card-text"&gt;•Nuorennetaan latvomalla (HUOM! Olen vasta leikannut yhden latvan, kokeilu vielä kesken).&lt;/p&gt;
         &lt;p class="card-text"&gt;•Lisätään rönsyistä.&lt;/p&gt;
     &lt;/div&gt;
   &lt;div class="tab-pane" id="Havaintoja"&gt;
         &lt;p class="card-text"&gt;•Talvela kasvuteltan ilmankosteus oli 30-40 %, mikä ei haitannut kasvien kasvua tai kuivattanut lehtiä.&lt;/p&gt;
-        &lt;p class="card-text"&gt;•Rönsyjen juurruttaminen on tärkeää siistille kasvulle, päävarrella on muuten vaikeuksia pysyä pystyssä .&lt;/p&gt;
+        &lt;p class="card-text"&gt;•Rönsyjen juurruttaminen on tärkeää siistille kasvulle, päävarrella on muuten vaikeuksia pysyä pystyssä.&lt;/p&gt;
         &lt;p class="card-text"&gt;•Sietää kuivumista, muutaman kerran juuripaakku oli päässyt kokonaan kuivaksi ja kasvi tokeni siitä nopeasti, naarmuitta.&lt;/p&gt;
         &lt;p class="card-text"&gt;•Alhainen valontarve. Kasvaa aluskasvina sademetsässä.&lt;/p&gt;
         &lt;p class="card-text"&gt;•Vahva fitness, kestää hyvin stressi tekijöitä.&lt;/p&gt;
