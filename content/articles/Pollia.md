@@ -21,9 +21,9 @@ Summary: Harvinaisempi kasvi Afrikan sademetsistä <p><small> Kuva: <a href="htt
   <div class="tab-pane active" id="Faktoja">
     <div class="card border-primary mb-3">
       <div class="card-body">
-        <p class="card-text">•Kasvaa Afrikan sademetsäalueilla. Laajalle levinnyt.</p>
+        <p class="card-text">•Kasvaa Afrikan sademetsäalueilla, laajalle levinnyt.</p>
         <p class="card-text">•Rönsyilevä kasvutapa, kuten mansikalla.</p>
-        <p class="card-text">•Tunnettu voimaakkaan sinisistä marjoistaan.</p>
+        <p class="card-text">•Tunnettu voimakkaan sinisistä marjoistaan.</p>
         <p class="card-text">•Marjoissa ei ole mitään syötävää, kuori on paksu ja voimakkaan sininen.</p>
         <p class="card-text">•Linnut koristelevat pesiään marjoilla, mikä edistää kasvin leviämistä.</p>
         <p class="card-text">•Kukkii sisällä? Ei ainakaan vielä.</p>
@@ -36,12 +36,12 @@ Summary: Harvinaisempi kasvi Afrikan sademetsistä <p><small> Kuva: <a href="htt
         <p class="card-text">•Ilmava kasvualusta, kasvaa hyvin myös altakastelu ruukussa.</p>
         <p class="card-text">•Ei suoraan auringonvaloon, viihtyy hyvin itä ja länsi ikkunoilla.</p>
         <p class="card-text">•Matala ja leveä ruukku on paras, tällöin rönsyt saa ohjattua multaan juurtumaan.</p>
-        <p class="card-text">•Nuorennetaan latvomalla (HUOM! Olen vasta leikannut yhden latavan, kokeilu vielä kesken).</p>
+        <p class="card-text">•Nuorennetaan latvomalla (HUOM! Olen vasta leikannut yhden latvan, kokeilu vielä kesken).</p>
         <p class="card-text">•Lisätään rönsyistä.</p>
     </div>
   <div class="tab-pane" id="Havaintoja">
         <p class="card-text">•Talvela kasvuteltan ilmankosteus oli 30-40 %, mikä ei haitannut kasvien kasvua tai kuivattanut lehtiä.</p>
-        <p class="card-text">•Rönsyjen juurruttaminen on tärkeää siistille kasvulle, päävarrella on muuten vaikeuksia pysyä pystyssä .</p>
+        <p class="card-text">•Rönsyjen juurruttaminen on tärkeää siistille kasvulle, päävarrella on muuten vaikeuksia pysyä pystyssä.</p>
         <p class="card-text">•Sietää kuivumista, muutaman kerran juuripaakku oli päässyt kokonaan kuivaksi ja kasvi tokeni siitä nopeasti, naarmuitta.</p>
         <p class="card-text">•Alhainen valontarve. Kasvaa aluskasvina sademetsässä.</p>
         <p class="card-text">•Vahva fitness, kestää hyvin stressi tekijöitä.</p>
